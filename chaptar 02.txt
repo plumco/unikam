@@ -1,0 +1,39 @@
+<b> - bold text
+<strong> important text
+<i> - italic text </i>
+<em> emphasized text </em>
+
+<mark>marked text </mrk>
+<small> small text </small>
+
+<del> deleted </del>
+<ins> inserted text </ins>
+<sub> subscript text </sub>
+<sup>suprescript text </sup>
+
+
+<a href="https//lapaas.com">best digital marketing insitute</a>
+<img src="download.jpg" alt="Techars day">
+<table>
+  <tr>
+    <th>first name</th>
+    <th>Last name</th>
+    <th>age</th>
+  </tr>
+  <td>
+    <td>umesh</td>
+    <td>nikam</td>
+    <td>28</td>
+  </td>
+
+
+  <ul>
+    <li>umesh</li>
+    <li>ganesh</li>
+    <li>sherr</li>
+  </ul>
+
+<ol>
+  <li>Ramchadra</li>
+  <li>seeta</li>
+</ol>

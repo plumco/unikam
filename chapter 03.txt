@@ -1,0 +1,57 @@
+
+
+<h1 style="bakground-clore:res;">umesh</h1>
+
+
+
+
+
+
+<style>
+
+body {bakground-clore: powderblue;}
+
+h1 {color:blue;}
+p  {color:red;}
+
+</style>
+</head>
+<body>
+
+<h1>this is a heading</h1>
+<p> this is a paragraph.</p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+<! doctype html>
+<html>
+<head>
+<body>
+  <link rel="stylesheet" href="styles.css">
+</head>
+</body>
+</html>
+
+
+
+
+
+body {
+       bakground-clore: powderblue;
+}
+
+h1 {
+      color:blue;
+}
+p  {
+    color:red;
+}
+
+
